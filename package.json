@@ -15,7 +15,7 @@
     "@react-native-community/slider": "^2.0.9",
     "@react-native-firebase/app": "^6.4.0",
     "@react-native-firebase/auth": "^6.4.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "mobx": "^5.15.4",
     "mobx-react": "^6.2.2",
     "react": "16.11.0",
